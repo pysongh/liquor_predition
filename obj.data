@@ -1,0 +1,6 @@
+classes= 8
+train  = AWS/train.txt
+valid  = AWS/train.txt
+names = AWS/obj.names
+backup = backup/
+
